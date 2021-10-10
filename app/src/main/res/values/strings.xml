@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoKotlin</string>
+    <string name="search_crypto_label">Search Crypto</string>
+</resources>
